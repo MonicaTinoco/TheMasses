@@ -1,0 +1,24 @@
+# Blender MTL File: 'Barrels2.blend'
+# Material Count: 2
+
+newmtl Deer_body__Deer_body_D_tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 85353c4b804e7c9c2ac91fe44c2645ff/Deer_body_D.tga
+
+newmtl Deer_horns__Deer_horns_D_tga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 9d8a95876cb62101be555eb488937581/Deer_horns_D.tga

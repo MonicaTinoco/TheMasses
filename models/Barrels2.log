@@ -1,0 +1,32 @@
+Exporter version: 5.6.2, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		inline textures:  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory:  /Users/monicatinoco/Desktop/game/models/
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of node:  Deer
+	processing begun of mesh:  _000_Deer.001
+		processing begun of Standard material:  Deer_body__Deer_body_D_tga
+			Diffuse texture found "Deer_body_D_tga"
+				Image texture found, type:  diffuseTexture, mapped using: "0"
+		processing begun of Standard material:  Deer_horns__Deer_horns_D_tga
+			Diffuse texture found "Deer_horns_D_tga"
+				Image texture found, type:  diffuseTexture, mapped using: "0"
+		processing begun of multimaterial:  Barrels2.Multimaterial#0
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.4324 secs

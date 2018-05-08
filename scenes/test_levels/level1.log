@@ -1,0 +1,2790 @@
+Exporter version: 5.6.2, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		inline textures:  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory:  /Users/monicatinoco/Desktop/game/scenes/test_levels/
+	Python World class constructor completed
+	processing begun of mesh:  Enemy.Barrel.105
+		processing begun of Standard material:  Deer_body__Deer_body_D_tga.001
+			Diffuse texture found "Kd.001"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  Deer_horns__Deer_horns_D_tga.001
+			Diffuse texture found "Kd.002"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#0
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.104
+		processing begun of Standard material:  barrel_1
+			Diffuse texture found "barrel_1"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+			Bump texture found "barrel_1.001"
+				Image texture found, type:  bumpTexture, mapped using: "UVMap"
+			Specular texture found "Ks"
+				Image texture found, type:  specularTexture, mapped using: "UVMap"
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.103
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.102
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.101
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Wall.006
+		processing begun of Standard material:  08.014
+			Ambient texture found "Ka.132"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.135"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.012
+			Ambient texture found "Ka.134"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.137"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.010
+			Ambient texture found "Ka.128"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.131"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  06.004
+			Ambient texture found "Ka.130"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.133"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.015
+			Ambient texture found "Ka.131"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.134"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  09.007
+			Ambient texture found "Ka.133"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.136"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.010
+			Ambient texture found "Ka.135"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.138"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.014
+			Ambient texture found "Ka.129"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.132"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#1
+		num positions      :  15811
+		num normals        :  15811
+		num uvs            :  31622
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  43584
+	processing begun of mesh:  Wall.005
+		processing begun of Standard material:  12.006
+			Ambient texture found "Ka.126"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.129"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  08.013
+			Ambient texture found "Ka.123"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.126"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  01.006
+			Ambient texture found "Ka.119"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.122"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  09.006
+			Ambient texture found "Ka.124"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.127"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.014
+			Ambient texture found "Ka.122"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.125"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  10.001
+			Ambient texture found "Ka.125"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.128"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.009
+			Ambient texture found "Ka.127"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.130"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.013
+			Ambient texture found "Ka.121"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.124"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.014
+			Ambient texture found "Ka.120"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.123"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#2
+		num positions      :  19536
+		num normals        :  19536
+		num uvs            :  39072
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  27642
+	processing begun of mesh:  Wall.113
+		processing begun of Standard material:  12.005
+		processing begun of Standard material:  08.012
+			Ambient texture found "Ka.117"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.120"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  01.005
+			Ambient texture found "Ka.112"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.115"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.009
+			Ambient texture found "Ka.114"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.117"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.011
+			Ambient texture found "Ka.118"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.121"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.013
+			Ambient texture found "Ka.116"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.119"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  06.003
+			Ambient texture found "Ka.115"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.118"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.013
+			Ambient texture found "Ka.113"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.116"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#3
+		num positions      :  1837
+		num normals        :  1837
+		num uvs            :  3674
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5493
+	processing begun of mesh:  Wall.004
+		processing begun of Standard material:  12.003
+		processing begun of Standard material:  08.010
+			Ambient texture found "Ka.101"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.104"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.007
+			Ambient texture found "Ka.097"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.100"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.011
+			Ambient texture found "Ka.100"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.103"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.009
+			Ambient texture found "Ka.102"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.105"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.011
+			Ambient texture found "Ka.096"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.099"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  04.008
+			Ambient texture found "Ka.098"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.101"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.011
+			Ambient texture found "Ka.099"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.102"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.007
+			Ambient texture found "Ka.103"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.106"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#4
+		num positions      :  19285
+		num normals        :  19285
+		num uvs            :  38570
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  28764
+	processing begun of mesh:  Wall.003
+		processing begun of Standard material:  01.004
+			Ambient texture found "Ka.089"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.092"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.008
+			Ambient texture found "Ka.094"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.097"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  14.002
+			Ambient texture found "Ka.095"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.098"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.010
+			Ambient texture found "Ka.093"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.096"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.010
+			Ambient texture found "Ka.090"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.093"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  04.007
+			Ambient texture found "Ka.091"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.094"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.010
+			Ambient texture found "Ka.092"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.095"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#5
+		num positions      :  1877
+		num normals        :  1877
+		num uvs            :  3754
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4314
+	processing begun of mesh:  Wall.002
+		processing begun of Standard material:  08.009
+			Ambient texture found "Ka.083"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.086"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.007
+			Ambient texture found "Ka.085"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.088"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  14.001
+			Ambient texture found "Ka.087"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.090"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.006
+			Ambient texture found "Ka.079"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.082"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  06.002
+			Ambient texture found "Ka.081"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.084"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.009
+			Ambient texture found "Ka.082"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.085"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  09.005
+			Ambient texture found "Ka.084"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.087"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.009
+			Ambient texture found "Ka.078"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.081"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.006
+			Ambient texture found "Ka.086"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.089"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.009
+			Ambient texture found "Ka.080"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.083"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  15.001
+			Ambient texture found "Ka.088"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.091"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#6
+		num positions      :  12931
+		num normals        :  12931
+		num uvs            :  25862
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18720
+		WARNING: # of 0 area faces found:  68
+	processing begun of mesh:  Wall.115
+		processing begun of Standard material:  08.007
+			Ambient texture found "Ka.068"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.071"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.007
+			Ambient texture found "Ka.066"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.069"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.005
+			Ambient texture found "Ka.070"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.073"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.007
+			Ambient texture found "Ka.067"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.070"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.007
+			Ambient texture found "Ka.064"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.067"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  04.005
+			Ambient texture found "Ka.065"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.068"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  09.003
+			Ambient texture found "Ka.069"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.072"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#7
+		num positions      :  4666
+		num normals        :  4666
+		num uvs            :  9332
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7701
+	processing begun of mesh:  Wall.122
+		processing begun of Standard material:  08.006
+			Ambient texture found "Ka.059"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.062"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  01.003
+			Ambient texture found "Ka.055"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.058"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.006
+			Ambient texture found "Ka.058"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.061"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.004
+			Ambient texture found "Ka.063"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.066"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  10
+			Ambient texture found "Ka.061"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.064"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.006
+			Ambient texture found "Ka.056"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.059"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.005
+			Ambient texture found "Ka.062"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.065"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  09.002
+			Ambient texture found "Ka.060"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.063"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  04.004
+			Ambient texture found "Ka.057"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.060"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#8
+		num positions      :  12885
+		num normals        :  12885
+		num uvs            :  25770
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20472
+	processing begun of mesh:  Wall.120
+		processing begun of Standard material:  12.002
+		processing begun of Standard material:  08.005
+			Ambient texture found "Ka.053"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.056"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  01.002
+			Ambient texture found "Ka.047"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.050"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.005
+			Ambient texture found "Ka.049"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.052"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.006
+			Ambient texture found "Ka.052"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.055"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.005
+			Ambient texture found "Ka.048"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.051"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  04.003
+			Ambient texture found "Ka.050"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.053"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.005
+			Ambient texture found "Ka.051"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.054"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.004
+			Ambient texture found "Ka.054"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.057"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#9
+		num positions      :  21218
+		num normals        :  21218
+		num uvs            :  42436
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30243
+	processing begun of mesh:  Wall.116
+		processing begun of Standard material:  12.001
+			Ambient texture found "Ka.043"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.046"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  14
+			Ambient texture found "Ka.045"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.048"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.004
+			Ambient texture found "Ka.038"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.041"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.003
+			Ambient texture found "Ka.042"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.045"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.005
+			Ambient texture found "Ka.041"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.044"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  15
+			Ambient texture found "Ka.046"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.049"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.004
+			Ambient texture found "Ka.037"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.040"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  04.002
+			Ambient texture found "Ka.039"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.042"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.004
+			Ambient texture found "Ka.040"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.043"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.003
+			Ambient texture found "Ka.044"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.047"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#10
+		num positions      :  19120
+		num normals        :  19120
+		num uvs            :  38240
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  27768
+	processing begun of mesh:  Wall.001
+		processing begun of Standard material:  08.004
+			Ambient texture found "Ka.035"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.038"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.003
+			Ambient texture found "Ka.032"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.035"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.002
+			Ambient texture found "Ka.036"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.039"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.004
+			Ambient texture found "Ka.034"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.037"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.003
+			Ambient texture found "Ka.031"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.034"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.003
+			Ambient texture found "Ka.033"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.036"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#11
+		num positions      :  3904
+		num normals        :  3904
+		num uvs            :  7808
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7362
+	processing begun of mesh:  K_Building_A04_00
+		processing begun of Standard material:  08.003
+			Ambient texture found "Ka.029"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.032"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.002
+			Ambient texture found "Ka.026"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.029"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11.001
+			Ambient texture found "Ka.030"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.033"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.003
+			Ambient texture found "Ka.028"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.031"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.002
+			Ambient texture found "Ka.025"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.028"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.002
+			Ambient texture found "Ka.027"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.030"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#12
+		num positions      :  3904
+		num normals        :  3904
+		num uvs            :  7808
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7362
+	processing begun of mesh:  Wall.118
+		processing begun of Standard material:  08.002
+			Ambient texture found "Ka.022"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.025"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05.001
+			Ambient texture found "Ka.019"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.022"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  06.001
+			Ambient texture found "Ka.020"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.023"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.002
+			Ambient texture found "Ka.021"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.024"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.002
+			Ambient texture found "Ka.024"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.027"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  04.001
+			Ambient texture found "Ka.018"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.021"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  09.001
+			Ambient texture found "Ka.023"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.026"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03.001
+			Ambient texture found "Ka.017"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.020"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#13
+		num positions      :  17179
+		num normals        :  17179
+		num uvs            :  34358
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  33048
+	processing begun of mesh:  Wall.121
+		processing begun of Standard material:  08.001
+			Ambient texture found "Ka.015"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.018"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  01.001
+			Ambient texture found "Ka.010"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.013"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  03
+			Ambient texture found "Ka.012"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.015"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07.001
+			Ambient texture found "Ka.014"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.017"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02.001
+			Ambient texture found "Ka.011"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.014"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  04
+			Ambient texture found "Ka.013"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.016"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13.001
+			Ambient texture found "Ka.016"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.019"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#14
+		num positions      :  18805
+		num normals        :  18805
+		num uvs            :  37610
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  34959
+	processing begun of mesh:  Wall.119
+		processing begun of Standard material:  12
+			Ambient texture found "Ka.008"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.011"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  08
+			Ambient texture found "Ka.005"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.008"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  11
+			Ambient texture found "Ka.007"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.010"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  01
+			Ambient texture found "Ka"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.003"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  09
+			Ambient texture found "Ka.006"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.009"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  06
+			Ambient texture found "Ka.003"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.006"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  07
+			Ambient texture found "Ka.004"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.007"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  02
+			Ambient texture found "Ka.001"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.004"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  13
+			Ambient texture found "Ka.009"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.012"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  05
+			Ambient texture found "Ka.002"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.005"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  level1.Multimaterial#15
+		num positions      :  18405
+		num normals        :  18405
+		num uvs            :  36810
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  28650
+	processing begun of mesh:  Enemy.Barrel.100
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.099
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.098
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.097
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.096
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.095
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.094
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.093
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.092
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.091
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.090
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.089
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.088
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.087
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.086
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.085
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.084
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.083
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.082
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.081
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.080
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.079
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.078
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.077
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.076
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.075
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.074
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.073
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.072
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.071
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.070
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.069
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.068
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.067
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.066
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.065
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.064
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.063
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Enemy.Barrel.062
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#16
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.061
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#17
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.060
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#18
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.059
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#19
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.058
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#20
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.057
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#21
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.056
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#22
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.055
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#23
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.054
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#24
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.053
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#25
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.052
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#26
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.051
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#27
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.050
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#28
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.014
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#29
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.049
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#30
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.048
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#31
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.047
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#32
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.046
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#33
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.045
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#34
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.044
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#35
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.043
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#36
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.042
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#37
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.041
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#38
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.040
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#39
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.039
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#40
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.038
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#41
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.037
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#42
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.036
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#43
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.035
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#44
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.034
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#45
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.033
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#46
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.032
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#47
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.031
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#48
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.030
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#49
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.029
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#50
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.028
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#51
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.027
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#52
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.026
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#53
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.025
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#54
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.024
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#55
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.023
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#56
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.022
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#57
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.021
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#58
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.020
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#59
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.019
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#60
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.018
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#61
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.017
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#62
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.016
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#63
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.015
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#64
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.013
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#65
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.012
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#66
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.011
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#67
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.010
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#68
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.009
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#69
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.008
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#70
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.007
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#71
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.006
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#72
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.005
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#73
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.004
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#74
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.002
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#75
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.000
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#76
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.003
+		registered as also a user of material:  Deer_body__Deer_body_D_tga.001
+		registered as also a user of material:  Deer_horns__Deer_horns_D_tga.001
+		processing begun of multimaterial:  level1.Multimaterial#77
+		num positions      :  1149
+		num normals        :  1149
+		num uvs            :  2298
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4710
+	processing begun of mesh:  Enemy.Barrel.001
+		registered as also a user of material:  barrel_1
+		num positions      :  2963
+		num normals        :  2963
+		num uvs            :  5926
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11196
+	processing begun of mesh:  Wall.109
+		processing begun of Standard material:  Material.001
+			Diffuse texture found "Water.001"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Water
+		WARNING: Found Obsolete "Use Flat Shading" property set True.  Replaced by "Edge Split" modifier instead
+		registered as also a user of material:  Material.001
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.108
+		WARNING: Found Obsolete "Use Flat Shading" property set True.  Replaced by "Edge Split" modifier instead
+		processing begun of Standard material:  Brick_1
+			Diffuse texture found "Brick_1"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.107
+		WARNING: Found Obsolete "Use Flat Shading" property set True.  Replaced by "Edge Split" modifier instead
+		registered as also a user of material:  Brick_1
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.019
+		WARNING: Found Obsolete "Use Flat Shading" property set True.  Replaced by "Edge Split" modifier instead
+		registered as also a user of material:  Brick_1
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.017
+		WARNING: Found Obsolete "Use Flat Shading" property set True.  Replaced by "Edge Split" modifier instead
+		registered as also a user of material:  Brick_1
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Floor.005
+		WARNING: No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Env.Water
+		WARNING: Found Obsolete "Use Flat Shading" property set True.  Replaced by "Edge Split" modifier instead
+		processing begun of Standard material:  Material.010
+			Diffuse texture found "Water"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Floor.001
+		WARNING: Found Obsolete "Use Flat Shading" property set True.  Replaced by "Edge Split" modifier instead
+		processing begun of Standard material:  Stones
+			Diffuse texture found "stone_Walk"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2237
+		num normals        :  2237
+		num uvs            :  4474
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2952
+	processing begun of mesh:  Door.001
+		animation processing begun
+			processing action Door.Down.001Action.001:  in[0 - 60], out[0 - 60]
+			processing action DoorAction:  in[1 - 61], out[70 - 131]
+		processing begun of Standard material:  Door1
+			Diffuse texture found "Door_1"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Item.Bullets.AM-100.005
+		processing begun of Standard material:  Material.008
+			Diffuse texture found "Texture.007"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  93
+		num normals        :  93
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Item.HealthPack.HL-25.008
+		processing begun of Standard material:  Material.004
+			Diffuse texture found "Texture.003"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Item.Bullets.AM-100.004
+		registered as also a user of material:  Material.008
+		num positions      :  93
+		num normals        :  93
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Item.Bullets.AM-100.003
+		registered as also a user of material:  Material.008
+		num positions      :  93
+		num normals        :  93
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Item.Bullets.AM-100.002
+		registered as also a user of material:  Material.008
+		num positions      :  93
+		num normals        :  93
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Item.Bullets.AM-100.001
+		registered as also a user of material:  Material.008
+		num positions      :  93
+		num normals        :  93
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of node:  Item.MSG.4.001
+	processing begun of node:  Item.MSG.3.000
+	processing begun of node:  Item.MSG.2
+	processing begun of mesh:  Wall.105
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of node:  Item.MSG.1
+	processing begun of node:  Item.Redirect.1
+	processing begun of node:  Item.Redirect.0
+	processing begun of node:  Item.MSG.0
+	processing begun of mesh:  Wall.028
+		processing begun of Standard material:  Side_Walk
+			Diffuse texture found "sideWalk"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  27
+		num normals        :  27
+		num uvs            :  54
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube
+		WARNING: No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  SkyCube
+		WARNING: Found Obsolete "Use Flat Shading" property set True.  Replaced by "Edge Split" modifier instead
+		processing begun of Standard material:  Material.006
+			Diffuse texture found "Texture.005"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Floor.012
+		registered as also a user of material:  Side_Walk
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Floor.007
+		registered as also a user of material:  Side_Walk
+		num positions      :  252
+		num normals        :  252
+		num uvs            :  504
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Wall.098
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.097
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of node:  Explosion.002
+	processing begun of node:  Explosion.001
+	processing begun of node:  Explosion
+	processing begun of node:  Empty
+	processing begun of mesh:  Floor.004
+		registered as also a user of material:  Side_Walk
+		num positions      :  723
+		num normals        :  723
+		num uvs            :  1446
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1008
+	processing begun of mesh:  Door.Down.014
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.013
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.012
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.011
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.010
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.009
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.008
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.007
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.006
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.005
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.004
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.Down.003
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.082
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.081
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.080
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.078
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.077
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.076
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.075
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.074
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.073
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.072
+		processing begun of Standard material:  SquareWall
+			Diffuse texture found "squares"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.071
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.070
+		processing begun of Standard material:  cafe_waLL
+			Diffuse texture found "cafe"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  ascsa.001
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.068
+		processing begun of Standard material:  glass_door
+			Diffuse texture found "glassdoor"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.067
+		processing begun of Standard material:  GreenWall
+			Diffuse texture found "greenruff"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.066
+		registered as also a user of material:  GreenWall
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.065
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Floor.3
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.063
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.062
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.061
+		registered as also a user of material:  GreenWall
+		num positions      :  116
+		num normals        :  116
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  464
+		num indices        :  156
+	processing begun of mesh:  Wall.060
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.059
+		processing begun of Standard material:  door1
+			Diffuse texture found "door1"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num indices        :  6
+	processing begun of mesh:  Wall.058
+		registered as also a user of material:  GreenWall
+		num positions      :  112
+		num normals        :  112
+		num uvs            :  224
+		num uvs2           :  0
+		num colors         :  448
+		num indices        :  150
+	processing begun of mesh:  Wall.057
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.056
+		registered as also a user of material:  GreenWall
+		num positions      :  116
+		num normals        :  116
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  464
+		num indices        :  156
+	processing begun of mesh:  Wall.055
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.054
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.053
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.052
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.051
+		registered as also a user of material:  GreenWall
+		num positions      :  116
+		num normals        :  116
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  464
+		num indices        :  156
+	processing begun of mesh:  Wall.050
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.049
+		registered as also a user of material:  GreenWall
+		num positions      :  112
+		num normals        :  112
+		num uvs            :  224
+		num uvs2           :  0
+		num colors         :  448
+		num indices        :  150
+	processing begun of mesh:  Wall.048
+		registered as also a user of material:  door1
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num indices        :  6
+	processing begun of mesh:  Wall.047
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.046
+		registered as also a user of material:  GreenWall
+		num positions      :  116
+		num normals        :  116
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  464
+		num indices        :  156
+	processing begun of mesh:  Wall.045
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.044
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.043
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.042
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.041
+		registered as also a user of material:  GreenWall
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.040
+		registered as also a user of material:  GreenWall
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.039
+		registered as also a user of material:  glass_door
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.038
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  ascsa.000
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.037
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.036
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.035
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.034
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.033
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.032
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.031
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.030
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.029
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.027
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.026
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.025
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Wall.020
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.021
+		registered as also a user of material:  Stones
+		num positions      :  27
+		num normals        :  27
+		num uvs            :  54
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.018
+		registered as also a user of material:  Stones
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.023
+		registered as also a user of material:  Stones
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door
+		animation processing begun
+			processing action Door.Down.001Action.001:  in[0 - 60], out[0 - 60]
+			processing action DoorAction:  in[1 - 61], out[70 - 131]
+		registered as also a user of material:  Door1
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  floor.003
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.024
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.007
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.015
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  ascsa.004
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.010
+		registered as also a user of material:  glass_door
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.117
+		registered as also a user of material:  GreenWall
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.111
+		registered as also a user of material:  GreenWall
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Floor.006
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Floor.2
+		registered as also a user of material:  Side_Walk
+		num positions      :  1800
+		num normals        :  1800
+		num uvs            :  3600
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2592
+	processing begun of mesh:  Wall.110
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.123
+		registered as also a user of material:  Side_Walk
+		num positions      :  25
+		num normals        :  25
+		num uvs            :  50
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.008
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.009
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.114
+		registered as also a user of material:  GreenWall
+		num positions      :  116
+		num normals        :  116
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  464
+		num indices        :  156
+	processing begun of mesh:  Wall.022
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.112
+		registered as also a user of material:  door1
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  16
+		num indices        :  6
+	processing begun of mesh:  Wall.014
+		registered as also a user of material:  GreenWall
+		num positions      :  112
+		num normals        :  112
+		num uvs            :  224
+		num uvs2           :  0
+		num colors         :  448
+		num indices        :  150
+	processing begun of mesh:  Wall.013
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.016
+		registered as also a user of material:  GreenWall
+		num positions      :  116
+		num normals        :  116
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  464
+		num indices        :  156
+	processing begun of mesh:  Wall.012
+		registered as also a user of material:  cafe_waLL
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Wall.011
+		registered as also a user of material:  SquareWall
+		num positions      :  26
+		num normals        :  26
+		num uvs            :  52
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Item.Bullets.AM-100
+		registered as also a user of material:  Material.008
+		num positions      :  93
+		num normals        :  93
+		num uvs            :  186
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Item.Weapon.Gun2
+		processing begun of Standard material:  Material.009
+			Diffuse texture found "Texture.008"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  68117
+		num normals        :  68117
+		num uvs            :  136234
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  337803
+	processing begun of mesh:  Item.Weapon.Gun3
+		processing begun of Standard material:  Material.011
+			Diffuse texture found "Texture.010"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1304
+		num normals        :  1304
+		num uvs            :  2608
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7740
+	processing begun of light (POINT):  Point.002
+	processing begun of light (POINT):  Point.001
+	processing begun of light (POINT):  Point
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  2 min, 5.5897 secs
