@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>The Masses</title>
+        <title>three.js webgl - sprites</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
         <style>
@@ -63,7 +63,7 @@
                 renderer = new THREE.WebGLRenderer();
                 renderer.setSize( window.innerWidth, window.innerHeight );
                 renderer.autoClear = false; // To allow render overlay on top of sprited sphere
-
+                
                 document.body.appendChild( renderer.domElement );
 
                 //
@@ -78,7 +78,7 @@
 
                 var width = material.map.image.width;
                 var height = material.map.image.height;
-
+                
                 spriteC = new THREE.Sprite( material );
                 spriteC.scale.set( width, height, 1 );
                 sceneOrtho.add( spriteC );
@@ -106,7 +106,7 @@
                 var width = window.innerWidth;
                 var height = window.innerHeight;
 
-                camera.aspect = width / height;
+                camera.aspect = width / height;             
                 camera.updateProjectionMatrix();
 
                 cameraOrtho.left = - width / 2;
@@ -139,3 +139,4 @@
         </script>
     </body>
 </html>
+
